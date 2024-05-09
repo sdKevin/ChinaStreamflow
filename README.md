@@ -1,6 +1,6 @@
 # MATLAB scripts for 'China's nationwide streamflow decline driven by climate and landscape changes'
 
-This document lists the main MATLAB scripts used to attribute streamflow changes as described by 'China's nationwide streamflow decline driven by climate and landscape changes'.
+This document lists the MATLAB scripts used to attribute streamflow changes as described by 'China's nationwide streamflow decline driven by climate and landscape changes'.
 
 
 
